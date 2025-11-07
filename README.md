@@ -26,4 +26,6 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
    npm run dev
    ```
 
-Website dengan framework vue harusnya sudah bisa dijalankan.
+Website dengan framework vue sudah bisa dijalankan.
+
+# Cek branch kami untuk melihat dokumentasi lengkapnya
